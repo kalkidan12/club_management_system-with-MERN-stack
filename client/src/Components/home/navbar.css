@@ -1,0 +1,17 @@
+.span-one {
+  color: green;
+}
+.span-two {
+  color: yellow;
+}
+.span-three {
+  color: red;
+}
+.navbar-brand {
+  font-size: 25px !important;
+  font-weight: bold !important;
+  padding: 0;
+}
+.nav-link .badge {
+  background-color: red !important;
+}
